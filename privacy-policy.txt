@@ -1,0 +1,26 @@
+PAPERBRIDGE PRIVACY POLICY
+Effective date: 29 October 2026
+Developer/publisher: Syed Margub Elahi
+Privacy and support email: smelahi25@gmail.com
+Applies to PaperBridge offline edition, version 0.1.1, package com.elahiailab.paperbridge.
+
+LOCAL DOCUMENT PROCESSING
+PaperBridge captures paper through your chosen camera application, imports files you select with Android's system picker, recognizes printed text, and exports PDF, DOCX, TXT or image archives. These operations occur on your device. This edition has no Internet permission and does not send your documents, images, OCR text, file names, device identifiers, usage analytics or crash reports to the developer or a server. All included OCR language models are packaged with the app; they do not require downloads.
+
+PRIVATE STORAGE
+Scan drafts, recognized text drafts and exported private documents are stored in the app's private storage. Android app cloud backup and device-transfer backup are disabled by this app's configuration. Your device and operating system still control physical storage security. PDF password protection applies only to the exported protected PDF copy; source files and ordinary copies are not automatically encrypted by the app.
+
+SHARING AND EXPORT
+If you explicitly choose Save a copy or Share, Android passes the selected file to the location, application or recipient you choose. That destination has its own privacy and retention practices. The developer does not receive copies through the app. Deleting a private original does not delete files exported to other destinations.
+
+DELETION AND RETENTION
+You may delete exported private documents from Documents, discard scan drafts, and discard recognized text drafts from their workspaces. Imported temporary files are removed after completed conversions where possible; abandoned temporary imports older than one day are removed when the app next starts. Android may also clear cached files. Uninstalling removes app-private data. Export important files before uninstalling. Exported/shared copies remain with their destinations until separately deleted. The developer does not hold a remote document database or app account to delete.
+
+ACCOUNTS, ADVERTISING AND ANALYTICS
+This version does not create accounts and contains no advertising, analytics or tracking SDK. There are no subscriptions or in-app purchases. Because no app account exists, account-deletion registration is not applicable.
+
+CHILDREN
+PaperBridge is a general productivity tool intended for teenagers aged 13 and over and adults. It is not directed to children under 13. Adjust this paragraph if your actual declared audience differs.
+
+CHANGES AND CONTACT
+If a future version changes data handling, this policy and the Play Data safety form will be updated before that version is distributed. For privacy questions about this app contact smelahi25@gmail.com. Include the app name and version, but do not email confidential document contents unless necessary and you choose to do so. Ordinary support-email correspondence is handled through the developer's email provider; this app does not transmit such correspondence automatically.
